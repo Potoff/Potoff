@@ -1,4 +1,5 @@
-### HelloWorld 👋
+### 
+- 🌱 Currently learning Javascript Vanilla 
 
 <!--
 **Potoff/Potoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +13,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
-![Ankaachien](https://user-images.githubusercontent.com/98336974/164201906-9d7b4386-0b86-4e13-a337-b7db70e3f936.png)
+
+
+![orion-nebula-g3b3dfc687_1920](https://user-images.githubusercontent.com/98336974/164204307-1c41c0b4-94ab-4812-9183-85cd2873db3e.jpg)
