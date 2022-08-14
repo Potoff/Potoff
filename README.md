@@ -1,5 +1,5 @@
 ### 
-- 🌱 Currently learning Javascript Vanilla 
+- 🌱 Currently working on FullStack Javascript Project with Express
 
 <!--
 **Potoff/Potoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
